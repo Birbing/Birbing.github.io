@@ -1,10 +1,8 @@
-# Birbing.github.io
-
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Crispy Birb Memes</title>
+        <title>Birbing</title>
         <style>
             body{
                 background-color: rgba(2, 5, 3, 0.733);
@@ -70,7 +68,7 @@
         <div id="container">
             
             <div id="header">
-            <h1 id="h-header">Crispy Birb Memes</h1>
+            <h1 id="h-header">Birbing</h1>
             </div>
 
             <div id="left-col">
